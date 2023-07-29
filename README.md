@@ -8,9 +8,8 @@ Committed to continuous learning and professional development and currently honi
 Join me as I unravel the mysteries of cybersecurity and contribute to a safer online environment!
 
 <h2> Projects </h2> 
-- [Password Generator] {}
-- []{}
-- []{}
+- [Password Generator]{https://github.com/MiotLGMaevah/Random-Password-Generator-.}
+
 Continuous learner | Problem-solver | Ethical Hacker in training
 
 #Cybersecurity #EthicalHacking #Infosec #Python #Networking #Securityanalyst #Beginner
