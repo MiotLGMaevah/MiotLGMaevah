@@ -1,5 +1,12 @@
-<<h1 align="center">Hi 👋, I'm Maevah</h1>
+<h1 align="center">Hi 👋, I'm Maevah</h1>
 <h3 align="center">Welcome to my Cybersecurity Journey!</h3>
+<br>
+
+- I am Based in Miami, Florida 
+
+- I’m currently learning **Penatration testing, Ethical Hacking, SQL**
+
+<br>
 
 <h3 align="left"> Python Projects: </h3>
 
@@ -11,13 +18,16 @@
 
 <h3 align="left"> Cybersecurity related Projects:</h3>
 
-- 🌱 I’m currently learning **Google Cybersecurity Professional Courses, CISSP Certification, CEH certification.**
+- [Wireshark Tutorial](https://github.com/MiotLGMaevah/Wireshark-Video)
 
-- 📫 You can reach me through my Email: **maevahmiot@gmail.com**
+<br> 
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/maevah miot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maevah miot" height="30" width="40" /></a>
+📫 You can reach me through my Email: **maevahmiot@gmail.com**
+
+<br>
+
+<a src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maevah miot" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
