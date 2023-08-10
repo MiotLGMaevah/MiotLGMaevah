@@ -1,10 +1,14 @@
-<h1 align="center">Hi 👋, I'm Maevah</h1>
+<h1 align="center">Maevah M.👩🏽‍💻</h1>
 <h3 align="center">Welcome to my Cybersecurity Journey!</h3>
 <br>
 
-- I am Based in Miami, Florida 
-
-- I’m currently learning **Penatration testing, Ethical Hacking, SQL**
+Hi, My name is Maevah, I am based in Miami, Florida. I recently graduated with B.S. in Computer information science specializing more in Cybersecurity,I’m still actively growing and learning more such as **Penatration testing, Ethical Hacking, SQL, etc.**
+<br> 
+<br>
+I'm currently doing alot of hands on projects to further enhance my skills and my learning journey.
+<br>
+<br>
+Check them out below!
 
 <br>
 
